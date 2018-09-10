@@ -23,7 +23,9 @@ public class LoginServlet extends HttpServlet
         userDatabase.put("Nicholas", "password");
         userDatabase.put("Sarah", "drowssap");
         userDatabase.put("Mike", "wordpass");
-        userDatabase.put("John", "green");
+      
+   userDatabase.put("John", "green"); 
+ userDatabase.put("Kishan", "Singh"); //New Credentials added
     }
 
     @Override
