@@ -24,7 +24,7 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.TimeZone;
 import java.util.function.Function;
-
+/*Sample class to Format the Date Tag   */
 public class FormatDateTag extends TagSupport
 {
     private static final Method GET_LOCALE_METHOD;
